@@ -12,7 +12,7 @@
 
 执行::
 
- pip install -r requirements.txt
+ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 安装本项目需要的Python依赖包。
 
